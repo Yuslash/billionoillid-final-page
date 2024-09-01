@@ -56,12 +56,12 @@ const Site = () => {
         <div className="site-container">
             <div className='text-center'>
                 <p className="get-in text-white text-5xl font-extrabold">👑Welcome To billionoillid👑</p>
-                <p className="reach-out text-gray-500 mt-2 text-xl font-small">Reach out, and let's create a universe of possibilities together!</p>
+                <p className="reach-out text-gray-500 mt-2 text-xl font-small">Uncover a New Dimension of Possibilities with Us!</p>
             </div>
             <div className="body-color mt-16 text-white flex gap-8 p-5">
                 <div className="inside-body p-10 flex flex-col gap-2 max-w-xl">
-                    <h1 className="font-semibold text-2xl">Let’s connect constellations</h1>
-                    <h1 className="text-gray-500 text-xs">Let's align our constellations! Reach out and let the magic of collaboration illuminate our skies.</h1>
+                    <h1 className="font-semibold text-2xl">Let's Ignite Your Journey! ✨</h1>
+                    <h1 className="text-gray-500 text-xs">Begin your creative journey with us. Fill out the form below to connect and start your adventure.</h1>
                     <form onSubmit={handleSubmit} className="mt-10 flex flex-col gap-3">
                         <div className="flex gap-2 justify-between">
                             <input
