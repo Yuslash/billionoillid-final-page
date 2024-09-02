@@ -80,4 +80,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-### Made with 💖 by [Yuslash](https://github.com/Yuslash)
+### Made with 🔥 by [Yuslash](https://github.com/Yuslash)
