@@ -70,6 +70,7 @@ const Site = () => {
                                 placeholder="First Name"
                                 value={formData.firstName}
                                 onChange={handleChange}
+                                required
                             />
                             <input
                                 className="input-field w-full"
@@ -77,6 +78,7 @@ const Site = () => {
                                 placeholder="Last Name"
                                 value={formData.lastName}
                                 onChange={handleChange}
+                                required
                             />
                         </div>
                         <input
@@ -85,6 +87,7 @@ const Site = () => {
                             placeholder="Email"
                             value={formData.email}
                             onChange={handleChange}
+                            required
                         />
                         <input
                             className="input-field w-full"
@@ -92,6 +95,7 @@ const Site = () => {
                             placeholder="Phone Number"
                             value={formData.phoneNumber}
                             onChange={handleChange}
+                            required
                         />
                         <textarea
                             className="input-field w-full h-28"
