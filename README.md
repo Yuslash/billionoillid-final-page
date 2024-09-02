@@ -1,6 +1,6 @@
 # 🚀 **Welcome to _Project Billionoid_!** 🌌
 
-![Billionoid Interface](public/screenshot.png)
+![Billionoid Interface](public/screenshot1.png)
 
 > "Reach out and let's create a universe of possibilities together!" ✨
 
